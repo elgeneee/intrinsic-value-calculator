@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['intrinsic.py']
+APP = ['Intrinsic.py']
 DATA_FILES = ['backend.py']
 OPTIONS = {
     'iconfile':'intrinsic_logo.icns',
