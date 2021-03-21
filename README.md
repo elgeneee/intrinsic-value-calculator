@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="icon_256x256.png" alt="Logo" width="80" height="80">
+    <img src="img/icon_256x256.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Intrinsic Value Calculator</h3>
@@ -16,7 +16,7 @@
     <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#how-to-use?">How To Use?</a></li>
+    <li><a href="#how-to-use">How To Use?</a></li>
   </ol>
 </details>
 
@@ -24,14 +24,14 @@
 We are not responsible of your investment decision. Please use this tool solely as a reference during your research.
 
 ## About The Project
-![Snapshot](intrinsic-screenshot.png)
+![Snapshot](img/intrinsic-screenshot.png)
 
 Intrinsic Value Calculator is a simple GUI written in Python3 and SQLite that allows investors to calculate the intrinsic value of a stock. The computation method used to calculate the result is discounted cash flow. Click [here](https://www.investopedia.com/terms/d/dcf.asp "Learn more about Discounted Cash Flow")  to learn more!
 
 Note: 
 
 ## Getting Started
-1. Download the the whole project by clicking <img style="padding-bottom:10px;" src="code-button.png" align="middle" width="80"> and choose "Download ZIP".
+1. Download the the whole project by clicking <img style="padding-bottom:10px;" src="img/code-button.png" align="middle" width="80"> and choose "Download ZIP".
 2. Navigate to `/dist` folder and open the Intrinsic.app
 3. You can move `Intrinsic.app` into your application folder and you are done!
 
